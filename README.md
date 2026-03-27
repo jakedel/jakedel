@@ -17,7 +17,7 @@
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Frameworks & Tools</h3>
+<h3 align="center">Platform&Tools</h3>
 <p align="center">
   <img height="20" src="https://github.com/user-attachments/assets/1d61c9c4-367c-415e-9a07-771913419005">&nbsp;&nbsp;
   <img height="20" src="https://github.com/user-attachments/assets/4381e1a6-39d9-4831-b070-b87994d0c348">&nbsp;&nbsp;
@@ -26,8 +26,10 @@
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;&nbsp;
 </p>
 
-<h3 align="center">Social</h3>
+<h3 align="center">Links</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-hello@jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/hello@jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/bitcaf%C3%A9-b.cafe/jake-58C700?style=default&logo=apachespark&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/last.fm-TC64music-D51007?style=default&logo=lastdotfm&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img>
 </p>
