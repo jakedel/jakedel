@@ -26,6 +26,7 @@
 <h3 align="center">Platform&Tools</h3>
 <p align="center">
 	<img height="20" src="https://github.com/user-attachments/assets/97be8a5d-5037-44fb-ba3a-e7e37c042ee8">&nbsp;&nbsp;
+	<img height="20" src="https://github.com/user-attachments/assets/160bc058-3fef-415d-97c8-cb44f6ae70b9">&nbsp;&nbsp;
 	<img height="20" src="https://github.com/user-attachments/assets/9202e7fa-f6f5-4944-9891-6db565015532">&nbsp;&nbsp;
 	<img height="20" src="https://github.com/user-attachments/assets/1c129000-e726-40f9-b35f-7c04e88d2257">&nbsp;&nbsp;
 	<img height="20" src="https://github.com/user-attachments/assets/19d73f3f-5bc1-4d77-9fa2-c173d0ba4760">&nbsp;&nbsp;
