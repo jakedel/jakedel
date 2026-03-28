@@ -68,7 +68,8 @@
 	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
 	<li><p>🎓 Studied Computer Science【CCS Computing】@ UCSB, now working in SF</p></li>
 </ul>
-<p align="center"><a href="https://www.youtube.com/watch?v=QZshoUVDjJs"><img width="320" src="https://github.com/user-attachments/assets/0939b180-8daf-49c1-af58-4fec94aa79be"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=QZshoUVDjJs"><img width="320" src="https://github.com/user-attachments/assets/2616849f-f951-4902-a282-c961fac56a55"></a></p>
+
 
 <p align="center"><img height="120" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
 <!--<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jakedel&layout=compact&langs_count=8&icon_color=00C6FF&title_color=00C6FF&role=OWNER,ORGANIZATION_MEMBER"></p>-->
