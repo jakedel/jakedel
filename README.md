@@ -49,7 +49,7 @@
 
 <h3 align="center">⬇️Links⬇️</h3>
 <p align="center">
-	<a href="https://jakedel.com"><img src="https://img.shields.io/badge/hello%40jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img></a>
+	<a href="https://jakedel.com"><img src="https://img.shields.io/badge/hello%40jakedel.com-FF5BAD?style=default&logo=maildotru&logoColor=white"></img></a>
 	<a href="https://b.cafe/jake"><img src="https://img.shields.io/badge/bitcaf%C3%A9-b.cafe/jake-58C700?style=default&logo=apachespark&logoColor=white"></img></a>
 	<a href="https://www.last.fm/user/TC64music"><img src="https://img.shields.io/badge/last.fm-TC64music-D51007?style=default&logo=lastdotfm&logoColor=white"></img></a>
 	<a href="https://soundcloud.com/TC64X"><img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img></a>
