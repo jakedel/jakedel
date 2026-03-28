@@ -10,11 +10,17 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">&nbsp;&nbsp;
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/2992a7f6-6578-46a1-b418-086fa2ca044f">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/b1fffaf7-9758-4b66-9df4-80455754bc75">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/95965a4d-dfce-43f7-9698-318f98709924">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/7b698b78-0eae-417b-b143-3d7a9ef53480">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/1bde48a6-78ae-443c-9c98-5c7953de0061">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/11c132a2-3939-4e07-b6c9-38a467a19b2c">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/d4f9f3fd-8799-4edf-9910-cbfbcb8ed3ed">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/6502abb7-2f31-45de-b34c-674e7bd47c13">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/6ecee850-18de-478e-8395-800d5f8380f8">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/6b5d462a-e3e1-4dab-9c6f-b6fce2e21f75">&nbsp;&nbsp;
+  <img height="20" src="https://github.com/user-attachments/assets/0f6255ee-d127-4213-a15a-fe670b004196">&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Platform&Tools</h3>
