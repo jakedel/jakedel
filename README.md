@@ -61,9 +61,9 @@
 
 <!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
 <a align="left" href="https://www.pixiv.net/en/artworks/123897366"><img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/bf4c0931-af33-47b7-97bc-8055c932cce4" /><br></a>
-<h3>About me</h3>
+<h3>About me 🔭</h3>
 <ul>
-	<li><p>🔭 Intrepid programmer for 15+ years from age 6. Love UI/UX since 2016</p></li>
+	<li><p>⚡️ Intrepid programmer, study for 15+ years from age 6. Love UI/UX since 2016</p></li>
 	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
 	<li><p>🎓 Studied Computer Science【CCS Computing】@ UCSB, now working in SF</p></li>
 </ul>
