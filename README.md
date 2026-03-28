@@ -64,7 +64,7 @@
 <ul>
 	<li><p>🎓 Studied Computer Science【CCS Computing】@ UCSB, now working in SF.</p></li>
 	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
-	<li><p>🧑‍💻 Intrepid programmer of 15+ years from age 6. Love UI/UX since 2016</p></li>
+	<li><p>🔭 Intrepid programmer of 15+ years from age 6. Love UI/UX since 2016</p></li>
 </ul>
 <p><a href="https://www.youtube.com/watch?v=QZshoUVDjJs"><img width="320" src="https://github.com/user-attachments/assets/0939b180-8daf-49c1-af58-4fec94aa79be"></a></p>
 
