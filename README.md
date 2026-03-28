@@ -41,6 +41,13 @@
 	<img height="20" src="https://github.com/user-attachments/assets/aafc6f1c-335f-47e8-a241-589ff4a83da8">&nbsp;&nbsp;
 </p>
 
+<h3 align="center">Hardware</h3>
+<p align="center">
+	<img src="https://img.shields.io/badge/ThinkPad-T480-red?style=default&logo=linux&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=linux&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+</p>
+
 <h3 align="center">Links</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/hello@jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
