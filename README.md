@@ -51,8 +51,19 @@
 
 <h3 align="center">Links</h3>
 <p align="center">
-	<img src="https://img.shields.io/badge/hello@jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/bitcaf%C3%A9-b.cafe/jake-58C700?style=default&logo=apachespark&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/last.fm-TC64music-D51007?style=default&logo=lastdotfm&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/hello%40jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
+	<a href="https://b.cafe/jake"><img src="https://img.shields.io/badge/bitcaf%C3%A9-b.cafe/jake-58C700?style=default&logo=apachespark&logoColor=white"></img></a>
+	<a href="https://www.last.fm/user/TC64music"><img src="https://img.shields.io/badge/last.fm-TC64music-D51007?style=default&logo=lastdotfm&logoColor=white"></img></a>
+	<a href="https://soundcloud.com/TC64X"><img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img></a>
 </p>
+
+<h1></h1>
+
+<!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
+<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/bf4c0931-af33-47b7-97bc-8055c932cce4" />
+<h3>About me</h3>
+<ul>
+	<li><p>🎓 Studied Computer Science【CCS Computing】 at UCSB, now working in SF.</p></li>
+	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
+	<li><p>🧑‍💻 Intrepid programmer of 15+ years since age 6. Love UI/UX since 2016</p></li>
+</ul>
