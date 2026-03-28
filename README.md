@@ -55,13 +55,13 @@
 	<a href="https://soundcloud.com/TC64X"><img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img></a>
 </p>
 
+<h1></h1>
 <h6 align="center"><samp>❙&nbsp;&nbsp;“No matter how long the night, the day will always come.”</samp></h6>
 <h6 align="center"><samp>◊</samp></h6>
-<h1></h1>
 
 <!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
 <a align="left" href="https://www.pixiv.net/en/artworks/123897366"><img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/bf4c0931-af33-47b7-97bc-8055c932cce4" /><br></a>
-<h6>A B O U T &nbsp; M E</h6>
+<h6>A b o u t &nbsp; m e</h6>
 <ul>
 	<li><p>🔭 Intrepid programmer, study for 15+ years from age 6. Love UI/UX since 2016</p></li>
 	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
