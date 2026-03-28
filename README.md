@@ -1,9 +1,7 @@
 <h1 align="left">
-  <img align="left" height="62px" src="https://avatars.githubusercontent.com/u/42163241" />
-  Jake Delgado
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&repeat=false&width=435&lines=Code+Create+Life)](https://git.io/typing-svg)
+  <p align="center"><img src="https://github.com/user-attachments/assets/a7341540-11da-4637-ac31-8b2c13b57aa9"></p>
 </h1>
+
 
 <p align="center">Hello, this is Jake👋</p>
 <p align="center">Just a passionate full stack developer and designer from California.</p>
@@ -70,5 +68,5 @@
 </ul>
 <p><a href="https://www.youtube.com/watch?v=QZshoUVDjJs"><img width="320" src="https://github.com/user-attachments/assets/0939b180-8daf-49c1-af58-4fec94aa79be"></a></p>
 
-<p align="center"><img height="121" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
+<p align="center"><img height="122" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
 <p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jakedel&layout=compact&langs_count=8&icon_color=00C6FF&title_color=00C6FF&role=OWNER,ORGANIZATION_MEMBER"></p>
