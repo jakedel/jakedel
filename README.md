@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">Hello, this is Jake👋</p>
-<p align="center">Just a passionate frontend developer and designer from California.</p>
+<p align="center">Just a passionate full-stack developer and designer from California.</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -49,7 +49,7 @@
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 </p>
 
-<h3 align="center">Links</h3>
+<h3 align="center">⬇️Links⬇️</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/hello%40jakedel.com-00A1D6?style=default&logo=maildotru&logoColor=white"></img>
 	<a href="https://b.cafe/jake"><img src="https://img.shields.io/badge/bitcaf%C3%A9-b.cafe/jake-58C700?style=default&logo=apachespark&logoColor=white"></img></a>
@@ -57,6 +57,7 @@
 	<a href="https://soundcloud.com/TC64X"><img src="https://img.shields.io/badge/soundcloud-@TC64X-FF5500?style=default&logo=soundcloud&logoColor=white"></img></a>
 </p>
 
+<h6 align="center"><samp>❙&nbsp;&nbsp;"No matter how long the night, the day will always come."</samp></h6>
 <h1></h1>
 
 <!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
@@ -65,5 +66,9 @@
 <ul>
 	<li><p>🎓 Studied Computer Science【CCS Computing】 at UCSB, now working in SF.</p></li>
 	<li><p>☕ Have additional hobbies， <a href="https://soundcloud.com/TC64X">music production</a>，video editing，3DCG，etc.</p></li>
-	<li><p>🧑‍💻 Intrepid programmer of 15+ years since age 6. Love UI/UX since 2016</p></li>
+	<li><p>🧑‍💻 Intrepid programmer of 15+ years from age 6. Love UI/UX since 2016</p></li>
 </ul>
+<p><img width="320" src="https://github.com/user-attachments/assets/0939b180-8daf-49c1-af58-4fec94aa79be"></p>
+
+<p align="center"><img height="122" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
+<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jakedel&layout=compact&langs_count=8&icon_color=00C6FF&title_color=00C6FF&role=OWNER,ORGANIZATION_MEMBER"></p>
