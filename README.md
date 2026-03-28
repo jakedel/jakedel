@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">Hello, this is Jake👋</p>
-<p align="center">Just a passionate full-stack developer and designer from California.</p>
+<p align="center">Just a passionate full stack developer and designer from California.</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
