@@ -56,7 +56,7 @@
 </p>
 
 <h6 align="center"><samp>❙&nbsp;&nbsp;“No matter how long the night, the day will always come.”</samp></h6>
-<h6 align="center"><samp>◊</samp></h6>
+<h5 align="center"><samp>◊</samp></h5>
 <h1></h1>
 
 <!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
