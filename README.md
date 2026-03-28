@@ -61,7 +61,7 @@
 <h1></h1>
 
 <!--<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/94d689e3-66c6-45ce-ac40-6be8cc377b31" />-->
-<img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/bf4c0931-af33-47b7-97bc-8055c932cce4" />
+<a align="left" href="https://www.pixiv.net/en/artworks/123897366"><img align="left" width="360" height="360" src="https://github.com/user-attachments/assets/bf4c0931-af33-47b7-97bc-8055c932cce4" /></a>
 <h3>About me</h3>
 <ul>
 	<li><p>🎓 Studied Computer Science【CCS Computing】 at UCSB, now working in SF.</p></li>
@@ -70,5 +70,5 @@
 </ul>
 <p><a href="https://www.youtube.com/watch?v=QZshoUVDjJs"><img width="320" src="https://github.com/user-attachments/assets/0939b180-8daf-49c1-af58-4fec94aa79be"></a></p>
 
-<p align="center"><img height="120" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
+<p align="center"><img height="121" src="https://github-widgetbox.vercel.app/api/profile?username=jakedel&data=followers,repositories,stars,commits&theme=magic_girl"></p>
 <p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jakedel&layout=compact&langs_count=8&icon_color=00C6FF&title_color=00C6FF&role=OWNER,ORGANIZATION_MEMBER"></p>
