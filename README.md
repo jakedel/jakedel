@@ -45,7 +45,7 @@
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 	<details>
-		<summary>Have more... 🌟( ´∀｀)つ</summary>
+		<summary>Have more... ( ´∀｀)つ🌟</summary>
 		<p align="center">
 			<img src="https://img.shields.io/badge/Lenovo-IdeaPad%20Yoga%2013-red?style=default&logo=ubuntu&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/ASUS-T100TA-red?style=default&logo=ubuntu&logoColor=white"></img>
