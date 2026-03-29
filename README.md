@@ -43,8 +43,17 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/ThinkPad-T480-red?style=default&logo=linux&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=linux&logoColor=white"></img>
-	<!--<img src="https://img.shields.io/badge/ThinkBook-Plus4-slategray?style=default&logo=quarto&logoColor=white"></img>-->
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+	<details>
+		<summary>Have more ... 🌟 ( ´∀｀)つ</summary>
+		<p align="center">
+			<img src="https://img.shields.io/badge/ThinkBook-Plus4-slategray?style=default&logo=quarto&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-Pro%202016%2013%22%20TouchBar-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-Pro%202015%2015%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+		</p>
+	</details>
 </p>
 
 <h3 align="center">⬇️Links⬇️</h3>
