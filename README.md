@@ -48,11 +48,12 @@
 		<summary>Have more... 🌟 ( ´∀｀)つ</summary>
 		<p align="center">
 			<img src="https://img.shields.io/badge/Lenovo-IdeaPad%20Yoga%2013-red?style=default&logo=ubuntu&logoColor=white"></img>
-			<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-888888?style=default&logo=quarto&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/ASUS-T100TA-red?style=default&logo=ubuntu&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202016%2013%22%20TouchBar-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202015%2015%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202009%2013%22-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-slategray?style=default&logo=quarto&logoColor=white"></img>
 		</p>
 	</details>
 </p>
