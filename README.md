@@ -45,7 +45,6 @@
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/Z170--M3-i7--6700K%20GTX1070-333333?style=default&logo=msi&logoColor=white"></img>
-		<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-333333?style=default&logo=quarto&logoColor=white"></img>
 	<details>
 		<summary>Have more... ( ´∀｀)つ 🌟</summary>
 		<p align="center">
@@ -59,6 +58,7 @@
 			<img src="https://img.shields.io/badge/PowerMac-G4%2FQS-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/iMac-G3%2FDV-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/ASUS-i7--4770K-333333?style=default&logo=republicofgamers&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-333333?style=default&logo=quarto&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/TOSHIBA-4010CDS-333333?style=default&logo=quarto&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/FUJITSU-Stylistic%201200-333333?style=default&logo=quarto&logoColor=white"></img>
 		</p>
