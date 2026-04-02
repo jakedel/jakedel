@@ -43,6 +43,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/ThinkPad-T480-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=debian&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/ThinkPad-T410s-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/Z170--M3-i7--6700K%20GTX1070-333333?style=default&logo=msi&logoColor=white"></img>
 	<details>
