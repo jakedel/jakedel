@@ -58,6 +58,7 @@
 			<img src="https://img.shields.io/badge/MacBook-Pro%202009%2013%22-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/PowerMac-G4%2FQS-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/iMac-G3%2FDV-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/Macintosh-Plus-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/ASUS-i7--4770K-333333?style=default&logo=republicofgamers&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-333333?style=default&logo=quarto&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/TOSHIBA-4010CDS-333333?style=default&logo=quarto&logoColor=white"></img>
