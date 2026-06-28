@@ -41,28 +41,34 @@
 
 <h3 align="center">Hardware</h3>
 <p align="center">
+	<img src="https://img.shields.io/badge/ThinkPad-X13%2FRyzen--Gen1⚡-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-T480-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=debian&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/ThinkPad-T410s-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/Z170--M3-i7--6700K%20GTX1070-333333?style=default&logo=msi&logoColor=white"></img>
 	<details>
 		<summary>Have more... ( ´∀｀)つ 🌟</summary>
-		<p align="center">
+		<p align="center">		
+			<img src="https://img.shields.io/badge/ThinkPad-T410s-red?style=default&logo=archlinux&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/Lenovo-IdeaPad%20Yoga%2013-red?style=default&logo=ubuntu&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/ASUS-T100TA-red?style=default&logo=ubuntu&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/Dell-Inspiron%208500-red?style=default&logo=ubuntu&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/Dell-Latitude%20E7440-red?style=default&logo=debian&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/ARBOR-G1220-red?style=default&logo=debian&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202016%2013%22%20TouchBar-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202015%2015%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202009%2013%22-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/iBook-G4-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/PowerMac-G4%2FQS-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/iMac-G3%2FDV-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/Macintosh-Plus-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/ASUS-i7--4770K-333333?style=default&logo=republicofgamers&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/Lenovo-ThinkBook%20Plus4-333333?style=default&logo=quarto&logoColor=white"></img>
-		<img src="https://img.shields.io/badge/TOSHIBA-4010CDS-333333?style=default&logo=quarto&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/HP-TouchSmart%20tx2-333333?style=default&logo=quarto&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/FUJITSU-T3010-333333?style=default&logo=quarto&logoColor=white"></img>
 		<img src="https://img.shields.io/badge/FUJITSU-Stylistic%201200-333333?style=default&logo=quarto&logoColor=white"></img>
+		<img src="https://img.shields.io/badge/TOSHIBA-4010CDS-333333?style=default&logo=quarto&logoColor=white"></img>
 		</p>
 	</details>
 </p>
