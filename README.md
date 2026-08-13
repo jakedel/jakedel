@@ -57,7 +57,7 @@
 			<img src="https://img.shields.io/badge/ARBOR-G1220-red?style=default&logo=debian&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202016%2013%22%20TouchBar-AAAAAA?style=default&logo=apple&logoColor=white"></img>
-			<img src="https://img.shields.io/badge/MacBook-Pro%202015%2015%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-Pro%202013%2013%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202009%2013%22-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/iBook-G4-AAAAAA?style=default&logo=apple&logoColor=white"></img>
