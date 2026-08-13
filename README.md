@@ -44,7 +44,7 @@
 	<img src="https://img.shields.io/badge/ThinkPad-X13%2FRyzen--Gen1⚡-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-T480-red?style=default&logo=debian&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/ThinkPad-A485-red?style=default&logo=debian&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/MacBook-Neo-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/Z170--M3-i7--6700K%20GTX1070-333333?style=default&logo=msi&logoColor=white"></img>
 	<details>
 		<summary>Have more... ( ´∀｀)つ 🌟</summary>
@@ -55,6 +55,7 @@
 			<img src="https://img.shields.io/badge/Dell-Inspiron%208500-red?style=default&logo=ubuntu&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/Dell-Latitude%20E7440-red?style=default&logo=debian&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/ARBOR-G1220-red?style=default&logo=debian&logoColor=white"></img>
+			<img src="https://img.shields.io/badge/MacBook-M1%20Air-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202016%2013%22%20TouchBar-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-Pro%202015%2015%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
 			<img src="https://img.shields.io/badge/MacBook-2015%2012%22%20Retina-AAAAAA?style=default&logo=apple&logoColor=white"></img>
